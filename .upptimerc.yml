@@ -6,7 +6,7 @@ sites:
   - name: LPSE Boyolali (Eproc4)
     url: https://lpse.boyolali.go.id/eproc4
   - name: LPSE Boyolali By IP
-    url: ttps://103.71.255.142/eproc4/
+    url: https://103.71.255.142/eproc4/
     __dangerous__disable_verify_peer: true
   - name: Mail Boyolali
     url: https://mail.boyolali.go.id
