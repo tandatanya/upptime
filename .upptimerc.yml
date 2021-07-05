@@ -7,9 +7,6 @@ sites:
     url: https://mail.surat.boyolali.go.id/accounts/login/?next=/
   - name: LPSE Boyolali (Eproc4)
     url: https://lpse.boyolali.go.id/eproc4
-  - name: LPSE Boyolali By IP
-    url: https://103.71.255.142/eproc4/
-    __dangerous__insecure: true
   - name: Mail Boyolali
     url: https://mail.boyolali.go.id
   - name: Main Web
