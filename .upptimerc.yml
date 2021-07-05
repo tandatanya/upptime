@@ -12,6 +12,8 @@ sites:
     url: https://mail.boyolali.go.id
   - name: Main Web
     url: https://boyolali.go.id
+  - name: Test Down
+    url: https://mail.surat.boyolali.go.id/accounts/login/?next=/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
