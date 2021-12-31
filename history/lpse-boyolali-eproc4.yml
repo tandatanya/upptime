@@ -1,7 +1,7 @@
 url: https://lpse.boyolali.go.id/eproc4
-status: up
-code: 200
-responseTime: 2378
-lastUpdated: 2021-12-30T23:12:27.185Z
+status: down
+code: 503
+responseTime: 970
+lastUpdated: 2021-12-31T03:44:36.601Z
 startTime: Fri Jun 25 2021 15:33:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
