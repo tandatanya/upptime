@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-07": 71,
+      "2022-08-08": 63,
+      "2022-08-07": 1440,
       "2022-08-06": 1440,
       "2022-08-05": 1440,
       "2022-08-04": 1440,
@@ -379,8 +380,7 @@
       "2021-08-12": 1440,
       "2021-08-11": 1440,
       "2021-08-10": 1440,
-      "2021-08-09": 1440,
-      "2021-08-08": 1440
+      "2021-08-09": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://favicons.githubusercontent.com/lpse.boyolali.go.id",
     "slug": "lpse-boyolali-eproc4",
     "status": "down",
-    "uptime": "97.30%",
-    "uptimeDay": "4.61%",
-    "uptimeWeek": "86.37%",
-    "uptimeMonth": "96.86%",
-    "uptimeYear": "97.00%",
+    "uptime": "97.07%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "72.17%",
+    "uptimeMonth": "93.60%",
+    "uptimeYear": "96.73%",
     "time": 3696,
     "timeDay": 0,
-    "timeWeek": 4202,
-    "timeMonth": 4329,
-    "timeYear": 3707,
+    "timeWeek": 4187,
+    "timeMonth": 4303,
+    "timeYear": 3704,
     "dailyMinutesDown": {
-      "2022-08-07": 71,
+      "2022-08-08": 63,
+      "2022-08-07": 1440,
       "2022-08-06": 1303,
       "2022-06-10": 22,
       "2022-06-02": 67,
@@ -441,18 +442,19 @@
     "icon": "https://favicons.githubusercontent.com/mail.boyolali.go.id",
     "slug": "mail-boyolali",
     "status": "down",
-    "uptime": "98.26%",
-    "uptimeDay": "4.61%",
-    "uptimeWeek": "86.37%",
-    "uptimeMonth": "96.86%",
+    "uptime": "98.02%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "72.17%",
+    "uptimeMonth": "93.60%",
     "uptimeYear": "98.07%",
     "time": 3695,
     "timeDay": 0,
-    "timeWeek": 4701,
-    "timeMonth": 4248,
+    "timeWeek": 4549,
+    "timeMonth": 4340,
     "timeYear": 3717,
     "dailyMinutesDown": {
-      "2022-08-07": 71,
+      "2022-08-08": 63,
+      "2022-08-07": 1440,
       "2022-08-06": 1303,
       "2022-05-01": 404,
       "2022-04-30": 22,
@@ -471,8 +473,7 @@
       "2021-08-31": 91,
       "2021-08-27": 34,
       "2021-08-11": 127,
-      "2021-08-09": 426,
-      "2021-08-08": 1440
+      "2021-08-09": 426
     }
   },
   {
@@ -481,7 +482,7 @@
     "icon": "https://favicons.githubusercontent.com/boyolali.go.id",
     "slug": "main-web",
     "status": "down",
-    "uptime": "10.21%",
+    "uptime": "10.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -492,7 +493,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-07": 71,
+      "2022-08-08": 63,
+      "2022-08-07": 1440,
       "2022-08-06": 1440,
       "2022-08-05": 1440,
       "2022-08-04": 1440,
@@ -855,8 +857,7 @@
       "2021-08-12": 1440,
       "2021-08-11": 1440,
       "2021-08-10": 1440,
-      "2021-08-09": 1440,
-      "2021-08-08": 1440
+      "2021-08-09": 1440
     }
   }
 ]
