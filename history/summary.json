@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/mail.surat.boyolali.go.id",
     "slug": "test-down",
     "status": "down",
-    "uptime": "1.35%",
+    "uptime": "1.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-09": 74,
+      "2022-08-10": 67,
+      "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
       "2022-08-06": 1440,
@@ -379,8 +380,7 @@
       "2021-08-14": 1440,
       "2021-08-13": 1440,
       "2021-08-12": 1440,
-      "2021-08-11": 1440,
-      "2021-08-10": 1440
+      "2021-08-11": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://favicons.githubusercontent.com/lpse.boyolali.go.id",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "97.04%",
-    "uptimeDay": "87.65%",
+    "uptime": "97.05%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "70.29%",
     "uptimeMonth": "93.16%",
     "uptimeYear": "96.69%",
-    "time": 3698,
-    "timeDay": 4011,
-    "timeWeek": 4605,
-    "timeMonth": 4341,
-    "timeYear": 3701,
+    "time": 3700,
+    "timeDay": 4898,
+    "timeWeek": 4483,
+    "timeMonth": 4328,
+    "timeYear": 3700,
     "dailyMinutesDown": {
       "2022-08-08": 252,
       "2022-08-07": 1440,
@@ -443,14 +443,14 @@
     "slug": "mail-boyolali",
     "status": "up",
     "uptime": "98.00%",
-    "uptimeDay": "90.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "70.75%",
     "uptimeMonth": "93.27%",
-    "uptimeYear": "98.32%",
+    "uptimeYear": "98.39%",
     "time": 3693,
-    "timeDay": 3169,
-    "timeWeek": 3942,
-    "timeMonth": 4216,
+    "timeDay": 3852,
+    "timeWeek": 3754,
+    "timeMonth": 4203,
     "timeYear": 3714,
     "dailyMinutesDown": {
       "2022-08-08": 206,
@@ -481,7 +481,7 @@
     "icon": "https://favicons.githubusercontent.com/boyolali.go.id",
     "slug": "main-web",
     "status": "down",
-    "uptime": "10.16%",
+    "uptime": "10.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -492,7 +492,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-09": 74,
+      "2022-08-10": 67,
+      "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
       "2022-08-06": 1440,
@@ -855,8 +856,7 @@
       "2021-08-14": 1440,
       "2021-08-13": 1440,
       "2021-08-12": 1440,
-      "2021-08-11": 1440,
-      "2021-08-10": 1440
+      "2021-08-11": 1440
     }
   }
 ]
