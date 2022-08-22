@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/mail.surat.boyolali.go.id",
     "slug": "test-down",
     "status": "down",
-    "uptime": "1.31%",
+    "uptime": "1.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-21": 65,
+      "2022-08-22": 67,
+      "2022-08-21": 1440,
       "2022-08-20": 1440,
       "2022-08-19": 1440,
       "2022-08-18": 1440,
@@ -379,8 +380,7 @@
       "2021-08-26": 1440,
       "2021-08-25": 1440,
       "2021-08-24": 1440,
-      "2021-08-23": 1440,
-      "2021-08-22": 1440
+      "2021-08-23": 1440
     }
   },
   {
@@ -394,10 +394,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.16%",
     "uptimeYear": "96.72%",
-    "time": 3693,
-    "timeDay": 1610,
-    "timeWeek": 3273,
-    "timeMonth": 4044,
+    "time": 3688,
+    "timeDay": 1478,
+    "timeWeek": 2744,
+    "timeMonth": 3921,
     "timeYear": 3692,
     "dailyMinutesDown": {
       "2022-08-08": 252,
@@ -440,15 +440,15 @@
     "icon": "https://favicons.githubusercontent.com/mail.boyolali.go.id",
     "slug": "mail-boyolali",
     "status": "up",
-    "uptime": "98.05%",
+    "uptime": "98.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.27%",
     "uptimeYear": "98.41%",
-    "time": 3678,
-    "timeDay": 1676,
-    "timeWeek": 2560,
-    "timeMonth": 3903,
+    "time": 3673,
+    "timeDay": 1526,
+    "timeWeek": 2539,
+    "timeMonth": 3779,
     "timeYear": 3688,
     "dailyMinutesDown": {
       "2022-08-08": 206,
@@ -478,7 +478,7 @@
     "icon": "https://favicons.githubusercontent.com/boyolali.go.id",
     "slug": "main-web",
     "status": "down",
-    "uptime": "9.87%",
+    "uptime": "9.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -489,7 +489,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-21": 66,
+      "2022-08-22": 67,
+      "2022-08-21": 1440,
       "2022-08-20": 1440,
       "2022-08-19": 1440,
       "2022-08-18": 1440,
@@ -852,8 +853,7 @@
       "2021-08-26": 1440,
       "2021-08-25": 1440,
       "2021-08-24": 1440,
-      "2021-08-23": 1440,
-      "2021-08-22": 1440
+      "2021-08-23": 1440
     }
   }
 ]
