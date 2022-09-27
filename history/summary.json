@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-26": 78,
+      "2022-09-27": 77,
+      "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
@@ -379,8 +380,7 @@
       "2021-10-01": 1440,
       "2021-09-30": 1440,
       "2021-09-29": 1440,
-      "2021-09-28": 1440,
-      "2021-09-27": 1440
+      "2021-09-28": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "96.76%",
-    "time": 3743,
-    "timeDay": 5427,
-    "timeWeek": 5071,
-    "timeMonth": 4312,
-    "timeYear": 3764,
+    "time": 3745,
+    "timeDay": 4760,
+    "timeWeek": 5486,
+    "timeMonth": 4282,
+    "timeYear": 3760,
     "dailyMinutesDown": {
       "2022-09-24": 41,
       "2022-08-08": 252,
@@ -437,16 +437,16 @@
     "icon": "https://favicons.githubusercontent.com/mail.boyolali.go.id",
     "slug": "mail-boyolali",
     "status": "up",
-    "uptime": "98.20%",
+    "uptime": "98.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.44%",
     "time": 3786,
-    "timeDay": 6053,
-    "timeWeek": 5095,
-    "timeMonth": 4936,
-    "timeYear": 3797,
+    "timeDay": 5694,
+    "timeWeek": 5109,
+    "timeMonth": 4957,
+    "timeYear": 3795,
     "dailyMinutesDown": {
       "2022-08-25": 18,
       "2022-08-08": 206,
@@ -472,7 +472,7 @@
     "icon": "https://favicons.githubusercontent.com/boyolali.go.id",
     "slug": "main-web",
     "status": "down",
-    "uptime": "9.09%",
+    "uptime": "9.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -483,7 +483,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-26": 79,
+      "2022-09-27": 78,
+      "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
@@ -846,8 +847,7 @@
       "2021-10-01": 1440,
       "2021-09-30": 1440,
       "2021-09-29": 1440,
-      "2021-09-28": 1440,
-      "2021-09-27": 1440
+      "2021-09-28": 1440
     }
   }
 ]
