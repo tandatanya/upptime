@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-27": 77,
+      "2022-09-28": 78,
+      "2022-09-27": 1440,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
@@ -379,8 +380,7 @@
       "2021-10-02": 1440,
       "2021-10-01": 1440,
       "2021-09-30": 1440,
-      "2021-09-29": 1440,
-      "2021-09-28": 1440
+      "2021-09-29": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://favicons.githubusercontent.com/lpse.boyolali.go.id",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "97.35%",
+    "uptime": "97.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "96.76%",
-    "time": 3745,
-    "timeDay": 4760,
-    "timeWeek": 5486,
-    "timeMonth": 4282,
-    "timeYear": 3760,
+    "time": 3749,
+    "timeDay": 5391,
+    "timeWeek": 5365,
+    "timeMonth": 4399,
+    "timeYear": 3771,
     "dailyMinutesDown": {
       "2022-09-24": 41,
       "2022-08-08": 252,
@@ -442,11 +442,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.44%",
-    "time": 3786,
-    "timeDay": 5694,
-    "timeWeek": 5109,
-    "timeMonth": 4957,
-    "timeYear": 3795,
+    "time": 3787,
+    "timeDay": 6107,
+    "timeWeek": 5175,
+    "timeMonth": 4962,
+    "timeYear": 3806,
     "dailyMinutesDown": {
       "2022-08-25": 18,
       "2022-08-08": 206,
@@ -472,7 +472,7 @@
     "icon": "https://favicons.githubusercontent.com/boyolali.go.id",
     "slug": "main-web",
     "status": "down",
-    "uptime": "9.08%",
+    "uptime": "9.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -483,7 +483,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-27": 78,
+      "2022-09-28": 78,
+      "2022-09-27": 1440,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
@@ -846,8 +847,7 @@
       "2021-10-02": 1440,
       "2021-10-01": 1440,
       "2021-09-30": 1440,
-      "2021-09-29": 1440,
-      "2021-09-28": 1440
+      "2021-09-29": 1440
     }
   }
 ]
