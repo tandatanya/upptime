@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-09": 77,
+      "2022-10-10": 82,
+      "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
@@ -379,8 +380,7 @@
       "2021-10-14": 1440,
       "2021-10-13": 1440,
       "2021-10-12": 1440,
-      "2021-10-11": 1440,
-      "2021-10-10": 1440
+      "2021-10-11": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "96.76%",
-    "time": 3774,
-    "timeDay": 5864,
-    "timeWeek": 5124,
-    "timeMonth": 4622,
-    "timeYear": 3804,
+    "time": 3777,
+    "timeDay": 5191,
+    "timeWeek": 4997,
+    "timeMonth": 4621,
+    "timeYear": 3814,
     "dailyMinutesDown": {
       "2022-09-24": 41,
       "2022-08-08": 252,
@@ -437,15 +437,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "up",
-    "uptime": "98.25%",
+    "uptime": "98.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.44%",
     "time": 3806,
-    "timeDay": 5754,
-    "timeWeek": 3981,
-    "timeMonth": 4717,
+    "timeDay": 1370,
+    "timeWeek": 3982,
+    "timeMonth": 4592,
     "timeYear": 3832,
     "dailyMinutesDown": {
       "2022-08-25": 18,
@@ -472,7 +472,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "8.84%",
+    "uptime": "8.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -483,7 +483,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-09": 77,
+      "2022-10-10": 82,
+      "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
@@ -846,8 +847,7 @@
       "2021-10-14": 1440,
       "2021-10-13": 1440,
       "2021-10-12": 1440,
-      "2021-10-11": 1440,
-      "2021-10-10": 1440
+      "2021-10-11": 1440
     }
   }
 ]
