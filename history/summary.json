@@ -16,7 +16,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-11": 881,
+      "2022-10-13": 80,
+      "2022-10-12": 1440,
+      "2022-10-11": 1440,
       "2022-10-10": 1440,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
@@ -378,9 +380,7 @@
       "2021-10-17": 1440,
       "2021-10-16": 1440,
       "2021-10-15": 1440,
-      "2021-10-14": 1440,
-      "2021-10-13": 1440,
-      "2021-10-12": 1440
+      "2021-10-14": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "97.43%",
-    "uptimeDay": "97.59%",
+    "uptime": "97.44%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "96.75%",
-    "time": 3783,
-    "timeDay": 5386,
-    "timeWeek": 5048,
-    "timeMonth": 4663,
-    "timeYear": 3818,
+    "time": 3794,
+    "timeDay": 5876,
+    "timeWeek": 5762,
+    "timeMonth": 4988,
+    "timeYear": 3837,
     "dailyMinutesDown": {
       "2022-10-11": 35,
       "2022-09-24": 41,
@@ -438,16 +438,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.44%",
-    "time": 3815,
-    "timeDay": 5377,
-    "timeWeek": 3952,
-    "timeMonth": 4597,
-    "timeYear": 3831,
+    "time": 3824,
+    "timeDay": 5599,
+    "timeWeek": 3760,
+    "timeMonth": 4606,
+    "timeYear": 3848,
     "dailyMinutesDown": {
       "2022-08-25": 18,
       "2022-08-08": 206,
@@ -473,7 +473,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "8.80%",
+    "uptime": "8.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -484,7 +484,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-11": 881,
+      "2022-10-13": 80,
+      "2022-10-12": 1440,
+      "2022-10-11": 1440,
       "2022-10-10": 1440,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
@@ -846,9 +848,7 @@
       "2021-10-17": 1440,
       "2021-10-16": 1440,
       "2021-10-15": 1440,
-      "2021-10-14": 1440,
-      "2021-10-13": 1440,
-      "2021-10-12": 1440
+      "2021-10-14": 1440
     }
   }
 ]
