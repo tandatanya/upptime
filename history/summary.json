@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 4936,
+    "time": 5183,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-01": 86,
+      "2022-11-02": 77,
+      "2022-11-01": 1440,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
@@ -379,8 +380,7 @@
       "2021-11-06": 1440,
       "2021-11-05": 1440,
       "2021-11-04": 1440,
-      "2021-11-03": 1440,
-      "2021-11-02": 1440
+      "2021-11-03": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "97.32%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "85.43%",
+    "uptime": "97.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "89.64%",
     "uptimeMonth": "96.51%",
-    "uptimeYear": "96.49%",
-    "time": 3815,
-    "timeDay": 5609,
-    "timeWeek": 4213,
-    "timeMonth": 4501,
-    "timeYear": 3881,
+    "uptimeYear": "96.54%",
+    "time": 3819,
+    "timeDay": 5876,
+    "timeWeek": 4417,
+    "timeMonth": 4504,
+    "timeYear": 3890,
     "dailyMinutesDown": {
       "2022-10-31": 30,
       "2022-10-30": 794,
@@ -433,8 +433,7 @@
       "2021-12-02": 197,
       "2021-11-28": 72,
       "2021-11-27": 976,
-      "2021-11-15": 35,
-      "2021-11-02": 38
+      "2021-11-15": 35
     }
   },
   {
@@ -443,16 +442,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "up",
-    "uptime": "98.32%",
+    "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "98.43%",
-    "time": 3887,
-    "timeDay": 5890,
-    "timeWeek": 5757,
-    "timeMonth": 4926,
-    "timeYear": 3924,
+    "time": 3894,
+    "timeDay": 5358,
+    "timeWeek": 5766,
+    "timeMonth": 4881,
+    "timeYear": 3928,
     "dailyMinutesDown": {
       "2022-10-27": 21,
       "2022-10-26": 50,
@@ -471,8 +470,7 @@
       "2021-12-04": 1098,
       "2021-12-02": 197,
       "2021-11-28": 72,
-      "2021-11-27": 976,
-      "2021-11-02": 37
+      "2021-11-27": 976
     }
   },
   {
@@ -481,7 +479,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "8.43%",
+    "uptime": "8.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -492,7 +490,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-01": 86,
+      "2022-11-02": 78,
+      "2022-11-01": 1440,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
@@ -855,8 +854,7 @@
       "2021-11-06": 1440,
       "2021-11-05": 1440,
       "2021-11-04": 1440,
-      "2021-11-03": 1440,
-      "2021-11-02": 1440
+      "2021-11-03": 1440
     }
   }
 ]
