@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-23": 58,
+      "2022-11-24": 63,
+      "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
@@ -379,8 +380,7 @@
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 1440
+      "2021-11-25": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "96.61%",
     "uptimeYear": "96.55%",
     "time": 3868,
-    "timeDay": 5485,
-    "timeWeek": 5262,
-    "timeMonth": 4398,
-    "timeYear": 3978,
+    "timeDay": 5539,
+    "timeWeek": 5279,
+    "timeMonth": 4393,
+    "timeYear": 3980,
     "dailyMinutesDown": {
       "2022-11-21": 18,
       "2022-10-31": 30,
@@ -447,11 +447,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "98.43%",
-    "time": 3919,
-    "timeDay": 3547,
-    "timeWeek": 4691,
-    "timeMonth": 4739,
-    "timeYear": 3987,
+    "time": 3935,
+    "timeDay": 8605,
+    "timeWeek": 5022,
+    "timeMonth": 4818,
+    "timeYear": 4006,
     "dailyMinutesDown": {
       "2022-11-21": 18,
       "2022-10-27": 21,
@@ -480,18 +480,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "8.07%",
+    "uptime": "8.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 4428,
+    "time": 4548,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-23": 59,
+      "2022-11-24": 64,
+      "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
@@ -854,8 +855,7 @@
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 1440
+      "2021-11-25": 1440
     }
   }
 ]
