@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-15": 57,
+      "2022-12-16": 53,
+      "2022-12-15": 1440,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
@@ -379,8 +380,7 @@
       "2021-12-20": 1440,
       "2021-12-19": 1440,
       "2021-12-18": 1440,
-      "2021-12-17": 1440,
-      "2021-12-16": 1440
+      "2021-12-17": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "97.54%",
+    "uptime": "97.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.29%",
-    "time": 3923,
-    "timeDay": 5670,
-    "timeWeek": 4774,
-    "timeMonth": 5004,
-    "timeYear": 4052,
+    "time": 3916,
+    "timeDay": 1328,
+    "timeWeek": 4149,
+    "timeMonth": 4988,
+    "timeYear": 4050,
     "dailyMinutesDown": {
       "2022-11-21": 18,
       "2022-10-31": 30,
@@ -440,11 +440,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.16%",
-    "time": 3986,
-    "timeDay": 6287,
-    "timeWeek": 5011,
-    "timeMonth": 4984,
-    "timeYear": 4037,
+    "time": 3987,
+    "timeDay": 5566,
+    "timeWeek": 5575,
+    "timeMonth": 4983,
+    "timeYear": 4040,
     "dailyMinutesDown": {
       "2022-11-21": 18,
       "2022-10-27": 21,
@@ -466,18 +466,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "7.74%",
+    "uptime": "7.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 4271,
+    "time": 4984,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-15": 57,
+      "2022-12-16": 53,
+      "2022-12-15": 1440,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
@@ -840,8 +841,7 @@
       "2021-12-20": 1440,
       "2021-12-19": 1440,
       "2021-12-18": 1440,
-      "2021-12-17": 1440,
-      "2021-12-16": 1440
+      "2021-12-17": 1440
     }
   }
 ]
