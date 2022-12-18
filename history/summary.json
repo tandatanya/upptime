@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.surat.boyolali.go.id.ico",
     "slug": "test-down",
     "status": "down",
-    "uptime": "1.02%",
+    "uptime": "1.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-17": 51,
+      "2022-12-18": 53,
+      "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
@@ -379,8 +380,7 @@
       "2021-12-22": 1440,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
-      "2021-12-19": 1440,
-      "2021-12-18": 1440
+      "2021-12-19": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.29%",
-    "time": 3912,
-    "timeDay": 5097,
-    "timeWeek": 4217,
-    "timeMonth": 4983,
-    "timeYear": 4062,
+    "time": 3913,
+    "timeDay": 5621,
+    "timeWeek": 4748,
+    "timeMonth": 4992,
+    "timeYear": 4065,
     "dailyMinutesDown": {
       "2022-11-21": 18,
       "2022-10-31": 30,
@@ -435,16 +435,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "up",
-    "uptime": "98.46%",
+    "uptime": "98.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.16%",
-    "time": 3992,
-    "timeDay": 3377,
-    "timeWeek": 4963,
-    "timeMonth": 4866,
-    "timeYear": 4042,
+    "time": 4001,
+    "timeDay": 5414,
+    "timeWeek": 4976,
+    "timeMonth": 4867,
+    "timeYear": 4053,
     "dailyMinutesDown": {
       "2022-11-21": 18,
       "2022-10-27": 21,
@@ -466,18 +466,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "7.71%",
+    "uptime": "7.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 6820,
+    "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-17": 51,
+      "2022-12-18": 53,
+      "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
@@ -840,8 +841,7 @@
       "2021-12-22": 1440,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
-      "2021-12-19": 1440,
-      "2021-12-18": 1440
+      "2021-12-19": 1440
     }
   }
 ]
