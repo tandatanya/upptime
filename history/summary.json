@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-11": 55,
+      "2023-01-12": 56,
+      "2023-01-11": 1440,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
@@ -379,8 +380,7 @@
       "2022-01-16": 1440,
       "2022-01-15": 1440,
       "2022-01-14": 1440,
-      "2022-01-13": 1440,
-      "2022-01-12": 1440
+      "2022-01-13": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "97.64%",
+    "uptime": "97.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "97.27%",
-    "time": 3952,
-    "timeDay": 5644,
-    "timeWeek": 4588,
-    "timeMonth": 4465,
-    "timeYear": 4097,
+    "time": 3951,
+    "timeDay": 1546,
+    "timeWeek": 4091,
+    "timeMonth": 4365,
+    "timeYear": 4088,
     "dailyMinutesDown": {
       "2022-12-23": 129,
       "2022-11-21": 18,
@@ -435,16 +435,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.16%",
-    "time": 4043,
-    "timeDay": 6025,
-    "timeWeek": 5027,
-    "timeMonth": 4750,
-    "timeYear": 4105,
+    "time": 4048,
+    "timeDay": 5534,
+    "timeWeek": 5061,
+    "timeMonth": 4752,
+    "timeYear": 4111,
     "dailyMinutesDown": {
       "2022-12-27": 27,
       "2022-12-23": 22,
@@ -467,7 +467,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "7.37%",
+    "uptime": "7.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -478,7 +478,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-11": 56,
+      "2023-01-12": 56,
+      "2023-01-11": 1440,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
@@ -841,8 +842,7 @@
       "2022-01-16": 1440,
       "2022-01-15": 1440,
       "2022-01-14": 1440,
-      "2022-01-13": 1440,
-      "2022-01-12": 1440
+      "2022-01-13": 1440
     }
   }
 ]
