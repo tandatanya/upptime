@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-28": 1058,
+      "2023-01-29": 60,
+      "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
@@ -379,8 +380,7 @@
       "2022-02-02": 1440,
       "2022-02-01": 1440,
       "2022-01-31": 1440,
-      "2022-01-30": 1440,
-      "2022-01-29": 1440
+      "2022-01-30": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "down",
-    "uptime": "97.62%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "92.54%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "97.53%",
-    "time": 3972,
-    "timeDay": 1441,
-    "timeWeek": 3436,
-    "timeMonth": 4095,
-    "timeYear": 4067,
+    "uptime": "97.57%",
+    "uptimeDay": "67.77%",
+    "uptimeWeek": "88.15%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "97.44%",
+    "time": 3977,
+    "timeDay": 4541,
+    "timeWeek": 3716,
+    "timeMonth": 4064,
+    "timeYear": 4069,
     "dailyMinutesDown": {
-      "2023-01-28": 22,
+      "2023-01-29": 60,
+      "2023-01-28": 404,
       "2023-01-27": 26,
       "2023-01-26": 122,
       "2023-01-25": 582,
@@ -441,11 +442,11 @@
     "uptimeWeek": "92.45%",
     "uptimeMonth": "98.26%",
     "uptimeYear": "99.18%",
-    "time": 4046,
-    "timeDay": 5756,
-    "timeWeek": 5390,
-    "timeMonth": 4989,
-    "timeYear": 4182,
+    "time": 4045,
+    "timeDay": 5515,
+    "timeWeek": 5352,
+    "timeMonth": 4985,
+    "timeYear": 4183,
     "dailyMinutesDown": {
       "2023-01-28": 21,
       "2023-01-27": 25,
@@ -471,7 +472,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "7.15%",
+    "uptime": "7.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -482,7 +483,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-28": 1058,
+      "2023-01-29": 60,
+      "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
@@ -845,8 +847,7 @@
       "2022-02-02": 1440,
       "2022-02-01": 1440,
       "2022-01-31": 1440,
-      "2022-01-30": 1440,
-      "2022-01-29": 1440
+      "2022-01-30": 1440
     }
   }
 ]
