@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.surat.boyolali.go.id.ico",
     "slug": "test-down",
     "status": "down",
-    "uptime": "0.94%",
+    "uptime": "0.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-01": 63,
+      "2023-02-02": 57,
+      "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
@@ -379,8 +380,7 @@
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
-      "2022-02-03": 1440,
-      "2022-02-02": 1440
+      "2022-02-03": 1440
     }
   },
   {
@@ -390,15 +390,15 @@
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
     "uptime": "97.38%",
-    "uptimeDay": "91.37%",
-    "uptimeWeek": "70.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "77.00%",
     "uptimeMonth": "93.25%",
     "uptimeYear": "97.11%",
-    "time": 3967,
-    "timeDay": 2483,
-    "timeWeek": 3938,
-    "timeMonth": 4199,
-    "timeYear": 4064,
+    "time": 3962,
+    "timeDay": 1766,
+    "timeWeek": 3779,
+    "timeMonth": 4105,
+    "timeYear": 4062,
     "dailyMinutesDown": {
       "2023-01-31": 187,
       "2023-01-30": 1388,
@@ -441,14 +441,14 @@
     "status": "up",
     "uptime": "98.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.72%",
+    "uptimeWeek": "94.16%",
     "uptimeMonth": "97.17%",
     "uptimeYear": "99.09%",
-    "time": 4050,
-    "timeDay": 1423,
-    "timeWeek": 4933,
-    "timeMonth": 4848,
-    "timeYear": 4197,
+    "time": 4048,
+    "timeDay": 1629,
+    "timeWeek": 4836,
+    "timeMonth": 4761,
+    "timeYear": 4198,
     "dailyMinutesDown": {
       "2023-01-30": 477,
       "2023-01-28": 21,
@@ -475,7 +475,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "7.11%",
+    "uptime": "7.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -486,7 +486,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-01": 63,
+      "2023-02-02": 57,
+      "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
@@ -849,8 +850,7 @@
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
-      "2022-02-03": 1440,
-      "2022-02-02": 1440
+      "2022-02-03": 1440
     }
   }
 ]
