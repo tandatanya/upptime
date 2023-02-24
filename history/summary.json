@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-23": 56,
+      "2023-02-24": 58,
+      "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
@@ -379,8 +380,7 @@
       "2022-02-28": 1440,
       "2022-02-27": 1440,
       "2022-02-26": 1440,
-      "2022-02-25": 1440,
-      "2022-02-24": 1440
+      "2022-02-25": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.77%",
     "uptimeYear": "97.07%",
-    "time": 3955,
-    "timeDay": 1615,
-    "timeWeek": 5054,
-    "timeMonth": 3664,
-    "timeYear": 4086,
+    "time": 3959,
+    "timeDay": 6077,
+    "timeWeek": 5112,
+    "timeMonth": 3772,
+    "timeYear": 4092,
     "dailyMinutesDown": {
       "2023-02-13": 50,
       "2023-02-06": 33,
@@ -442,16 +442,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.10%",
     "uptimeYear": "99.08%",
-    "time": 4053,
-    "timeDay": 5938,
-    "timeWeek": 5002,
-    "timeMonth": 4248,
-    "timeYear": 4218,
+    "time": 4060,
+    "timeDay": 5308,
+    "timeWeek": 4918,
+    "timeMonth": 4236,
+    "timeYear": 4229,
     "dailyMinutesDown": {
       "2023-02-06": 32,
       "2023-01-30": 477,
@@ -479,7 +479,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "6.85%",
+    "uptime": "6.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -490,7 +490,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-23": 56,
+      "2023-02-24": 58,
+      "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
@@ -853,8 +854,7 @@
       "2022-02-28": 1440,
       "2022-02-27": 1440,
       "2022-02-26": 1440,
-      "2022-02-25": 1440,
-      "2022-02-24": 1440
+      "2022-02-25": 1440
     }
   }
 ]
