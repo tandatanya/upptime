@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-14": 49,
+      "2023-03-15": 57,
+      "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
       "2023-03-11": 1440,
@@ -379,8 +380,7 @@
       "2022-03-19": 1440,
       "2022-03-18": 1440,
       "2022-03-17": 1440,
-      "2022-03-16": 1440,
-      "2022-03-15": 1440
+      "2022-03-16": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "97.52%",
+    "uptime": "97.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.07%",
-    "time": 3948,
-    "timeDay": 1543,
-    "timeWeek": 1996,
-    "timeMonth": 3729,
-    "timeYear": 4050,
+    "time": 3944,
+    "timeDay": 1325,
+    "timeWeek": 1954,
+    "timeMonth": 3565,
+    "timeYear": 4041,
     "dailyMinutesDown": {
       "2023-03-03": 17,
       "2023-02-13": 50,
@@ -448,10 +448,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.08%",
-    "time": 4034,
-    "timeDay": 1598,
-    "timeWeek": 1492,
-    "timeMonth": 3866,
+    "time": 4025,
+    "timeDay": 1264,
+    "timeWeek": 1426,
+    "timeMonth": 3747,
     "timeYear": 4186,
     "dailyMinutesDown": {
       "2023-03-03": 16,
@@ -481,7 +481,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "6.64%",
+    "uptime": "6.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -492,7 +492,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-14": 50,
+      "2023-03-15": 57,
+      "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
       "2023-03-11": 1440,
@@ -855,8 +856,7 @@
       "2022-03-19": 1440,
       "2022-03-18": 1440,
       "2022-03-17": 1440,
-      "2022-03-16": 1440,
-      "2022-03-15": 1440
+      "2022-03-16": 1440
     }
   }
 ]
