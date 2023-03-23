@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-22": 52,
+      "2023-03-23": 53,
+      "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
@@ -379,8 +380,7 @@
       "2022-03-27": 1440,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
-      "2022-03-24": 1440,
-      "2022-03-23": 1440
+      "2022-03-24": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "97.42%",
-    "uptimeDay": "80.81%",
+    "uptime": "97.43%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "88.02%",
     "uptimeMonth": "97.20%",
     "uptimeYear": "96.84%",
-    "time": 3928,
-    "timeDay": 6565,
-    "timeWeek": 2839,
-    "timeMonth": 2940,
-    "timeYear": 4031,
+    "time": 3927,
+    "timeDay": 1964,
+    "timeWeek": 2906,
+    "timeMonth": 2950,
+    "timeYear": 4024,
     "dailyMinutesDown": {
       "2023-03-21": 329,
       "2023-03-20": 879,
@@ -446,15 +446,15 @@
     "slug": "mail-boyolali",
     "status": "up",
     "uptime": "98.43%",
-    "uptimeDay": "83.12%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "89.27%",
     "uptimeMonth": "97.49%",
     "uptimeYear": "98.87%",
-    "time": 4025,
-    "timeDay": 5066,
-    "timeWeek": 3228,
-    "timeMonth": 3304,
-    "timeYear": 4183,
+    "time": 4021,
+    "timeDay": 1595,
+    "timeWeek": 3169,
+    "timeMonth": 3187,
+    "timeYear": 4177,
     "dailyMinutesDown": {
       "2023-03-21": 295,
       "2023-03-20": 786,
@@ -485,7 +485,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "6.56%",
+    "uptime": "6.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -496,7 +496,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-22": 53,
+      "2023-03-23": 53,
+      "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
@@ -859,8 +860,7 @@
       "2022-03-27": 1440,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
-      "2022-03-24": 1440,
-      "2022-03-23": 1440
+      "2022-03-24": 1440
     }
   }
 ]
