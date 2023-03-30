@@ -8,7 +8,7 @@
     "uptime": "0.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-29": 59,
+      "2023-03-30": 55,
+      "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
@@ -379,8 +380,7 @@
       "2022-04-03": 1440,
       "2022-04-02": 1440,
       "2022-04-01": 1440,
-      "2022-03-31": 1440,
-      "2022-03-30": 1440
+      "2022-03-31": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "97.43%",
+    "uptime": "97.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.62%",
     "uptimeMonth": "96.89%",
     "uptimeYear": "96.81%",
-    "time": 3956,
-    "timeDay": 1344,
-    "timeWeek": 3975,
-    "timeMonth": 3106,
-    "timeYear": 4037,
+    "time": 3965,
+    "timeDay": 5911,
+    "timeWeek": 4413,
+    "timeMonth": 3182,
+    "timeYear": 4048,
     "dailyMinutesDown": {
       "2023-03-24": 139,
       "2023-03-21": 329,
@@ -452,10 +452,10 @@
     "uptimeMonth": "97.18%",
     "uptimeYear": "98.85%",
     "time": 4009,
-    "timeDay": 5573,
-    "timeWeek": 3222,
-    "timeMonth": 2963,
-    "timeYear": 4171,
+    "timeDay": 1247,
+    "timeWeek": 3184,
+    "timeMonth": 2921,
+    "timeYear": 4167,
     "dailyMinutesDown": {
       "2023-03-24": 138,
       "2023-03-21": 295,
@@ -487,10 +487,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "6.49%",
+    "uptime": "6.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -498,7 +498,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-29": 60,
+      "2023-03-30": 55,
+      "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
@@ -861,8 +862,7 @@
       "2022-04-03": 1440,
       "2022-04-02": 1440,
       "2022-04-01": 1440,
-      "2022-03-31": 1440,
-      "2022-03-30": 1440
+      "2022-03-31": 1440
     }
   }
 ]
