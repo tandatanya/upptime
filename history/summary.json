@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-17": 52,
+      "2023-04-18": 50,
+      "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
@@ -379,8 +380,7 @@
       "2022-04-22": 1440,
       "2022-04-21": 1440,
       "2022-04-20": 1440,
-      "2022-04-19": 1440,
-      "2022-04-18": 1440
+      "2022-04-19": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "97.49%",
+    "uptime": "97.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "96.61%",
     "uptimeYear": "96.78%",
-    "time": 3923,
-    "timeDay": 2088,
-    "timeWeek": 2267,
+    "time": 3918,
+    "timeDay": 1439,
+    "timeWeek": 2234,
     "timeMonth": 3025,
-    "timeYear": 3961,
+    "timeYear": 3951,
     "dailyMinutesDown": {
       "2023-04-12": 68,
       "2023-04-08": 69,
@@ -453,11 +453,11 @@
     "uptimeWeek": "99.33%",
     "uptimeMonth": "97.06%",
     "uptimeYear": "98.83%",
-    "time": 3953,
-    "timeDay": 1541,
-    "timeWeek": 1545,
+    "time": 3945,
+    "timeDay": 1240,
+    "timeWeek": 1499,
     "timeMonth": 2542,
-    "timeYear": 4032,
+    "timeYear": 4023,
     "dailyMinutesDown": {
       "2023-04-12": 68,
       "2023-03-24": 138,
@@ -490,7 +490,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "6.30%",
+    "uptime": "6.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -501,7 +501,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-17": 52,
+      "2023-04-18": 50,
+      "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
@@ -864,8 +865,7 @@
       "2022-04-22": 1440,
       "2022-04-21": 1440,
       "2022-04-20": 1440,
-      "2022-04-19": 1440,
-      "2022-04-18": 1440
+      "2022-04-19": 1440
     }
   }
 ]
