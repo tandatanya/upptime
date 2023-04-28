@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-27": 55,
+      "2023-04-28": 53,
+      "2023-04-27": 1440,
       "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
@@ -379,8 +380,7 @@
       "2022-05-02": 1440,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
-      "2022-04-29": 1440,
-      "2022-04-28": 1440
+      "2022-04-29": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "97.52%",
+    "uptime": "97.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "96.77%",
-    "time": 3899,
-    "timeDay": 1400,
-    "timeWeek": 3163,
-    "timeMonth": 2575,
+    "time": 3894,
+    "timeDay": 1600,
+    "timeWeek": 3159,
+    "timeMonth": 2577,
     "timeYear": 3949,
     "dailyMinutesDown": {
       "2023-04-18": 96,
@@ -453,11 +453,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "98.82%",
-    "time": 3930,
-    "timeDay": 1301,
-    "timeWeek": 2089,
-    "timeMonth": 2162,
-    "timeYear": 4023,
+    "time": 3924,
+    "timeDay": 1441,
+    "timeWeek": 2069,
+    "timeMonth": 2164,
+    "timeYear": 4016,
     "dailyMinutesDown": {
       "2023-04-18": 95,
       "2023-04-12": 68,
@@ -491,7 +491,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "6.21%",
+    "uptime": "6.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -502,7 +502,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-27": 55,
+      "2023-04-28": 53,
+      "2023-04-27": 1440,
       "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
@@ -865,8 +866,7 @@
       "2022-05-02": 1440,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
-      "2022-04-29": 1440,
-      "2022-04-28": 1440
+      "2022-04-29": 1440
     }
   }
 ]
