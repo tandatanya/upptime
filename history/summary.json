@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-02": 53,
+      "2023-05-03": 53,
+      "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
@@ -379,8 +380,7 @@
       "2022-05-07": 1440,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
-      "2022-05-04": 1440,
-      "2022-05-03": 1440
+      "2022-05-04": 1440
     }
   },
   {
@@ -393,12 +393,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
-    "uptimeYear": "97.06%",
-    "time": 3894,
-    "timeDay": 1460,
-    "timeWeek": 2016,
-    "timeMonth": 2584,
-    "timeYear": 3932,
+    "uptimeYear": "97.33%",
+    "time": 3888,
+    "timeDay": 1539,
+    "timeWeek": 1997,
+    "timeMonth": 2582,
+    "timeYear": 3926,
     "dailyMinutesDown": {
       "2023-04-18": 96,
       "2023-04-12": 68,
@@ -435,8 +435,7 @@
       "2022-06-02": 67,
       "2022-05-06": 179,
       "2022-05-05": 1440,
-      "2022-05-04": 1440,
-      "2022-05-03": 1440
+      "2022-05-04": 1440
     }
   },
   {
@@ -445,16 +444,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "98.90%",
-    "time": 3903,
-    "timeDay": 1367,
-    "timeWeek": 1387,
-    "timeMonth": 1945,
-    "timeYear": 4016,
+    "time": 3898,
+    "timeDay": 1253,
+    "timeWeek": 1350,
+    "timeMonth": 1932,
+    "timeYear": 4005,
     "dailyMinutesDown": {
       "2023-04-18": 95,
       "2023-04-12": 68,
@@ -486,7 +485,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "6.16%",
+    "uptime": "6.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -497,7 +496,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-02": 53,
+      "2023-05-03": 53,
+      "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
@@ -860,8 +860,7 @@
       "2022-05-07": 1440,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
-      "2022-05-04": 1440,
-      "2022-05-03": 1440
+      "2022-05-04": 1440
     }
   }
 ]
