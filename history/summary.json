@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 53,
+      "2023-05-20": 51,
+      "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -379,8 +380,7 @@
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
-      "2022-05-21": 1440,
-      "2022-05-20": 1440
+      "2022-05-21": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "97.57%",
-    "uptimeDay": "95.25%",
+    "uptime": "97.58%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "98.13%",
     "time": 3814,
-    "timeDay": 3724,
-    "timeWeek": 2715,
-    "timeMonth": 2477,
+    "timeDay": 5597,
+    "timeWeek": 3221,
+    "timeMonth": 2483,
     "timeYear": 3827,
     "dailyMinutesDown": {
       "2023-05-18": 68,
@@ -446,15 +446,15 @@
     "slug": "mail-boyolali",
     "status": "up",
     "uptime": "98.50%",
-    "uptimeDay": "95.28%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "98.85%",
     "time": 3854,
-    "timeDay": 5786,
-    "timeWeek": 4421,
-    "timeMonth": 2285,
-    "timeYear": 3920,
+    "timeDay": 4894,
+    "timeWeek": 4835,
+    "timeMonth": 2396,
+    "timeYear": 3928,
     "dailyMinutesDown": {
       "2023-05-18": 68,
       "2023-05-10": 18,
@@ -489,7 +489,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "6.01%",
+    "uptime": "6.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -500,7 +500,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 53,
+      "2023-05-20": 51,
+      "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -863,8 +864,7 @@
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
-      "2022-05-21": 1440,
-      "2022-05-20": 1440
+      "2022-05-21": 1440
     }
   }
 ]
