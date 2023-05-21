@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 51,
+      "2023-05-21": 56,
+      "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -379,8 +380,7 @@
       "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
-      "2022-05-22": 1440,
-      "2022-05-21": 1440
+      "2022-05-22": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "98.13%",
-    "time": 3814,
-    "timeDay": 5597,
-    "timeWeek": 3221,
+    "time": 3807,
+    "timeDay": 1637,
+    "timeWeek": 3220,
     "timeMonth": 2483,
-    "timeYear": 3827,
+    "timeYear": 3825,
     "dailyMinutesDown": {
       "2023-05-18": 68,
       "2023-05-10": 18,
@@ -445,15 +445,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "98.85%",
-    "time": 3854,
-    "timeDay": 4894,
-    "timeWeek": 4835,
-    "timeMonth": 2396,
+    "time": 3848,
+    "timeDay": 1456,
+    "timeWeek": 4793,
+    "timeMonth": 2392,
     "timeYear": 3928,
     "dailyMinutesDown": {
       "2023-05-18": 68,
@@ -489,7 +489,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "6.00%",
+    "uptime": "5.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -500,7 +500,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 51,
+      "2023-05-21": 56,
+      "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -863,8 +864,7 @@
       "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
-      "2022-05-22": 1440,
-      "2022-05-21": 1440
+      "2022-05-22": 1440
     }
   }
 ]
