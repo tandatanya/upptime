@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-06": 61,
+      "2023-06-07": 62,
+      "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
@@ -379,8 +380,7 @@
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
-      "2022-06-08": 1440,
-      "2022-06-07": 1440
+      "2022-06-08": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "97.63%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "98.14%",
-    "time": 3754,
-    "timeDay": 5450,
-    "timeWeek": 3368,
-    "timeMonth": 2324,
-    "timeYear": 3791,
+    "time": 3749,
+    "timeDay": 1926,
+    "timeWeek": 3390,
+    "timeMonth": 2358,
+    "timeYear": 3784,
     "dailyMinutesDown": {
       "2023-05-18": 68,
       "2023-05-10": 18,
@@ -449,11 +449,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "98.85%",
-    "time": 3791,
-    "timeDay": 1847,
-    "timeWeek": 2219,
-    "timeMonth": 2560,
-    "timeYear": 3865,
+    "time": 3787,
+    "timeDay": 1603,
+    "timeWeek": 2192,
+    "timeMonth": 2563,
+    "timeYear": 3857,
     "dailyMinutesDown": {
       "2023-05-18": 68,
       "2023-05-10": 18,
@@ -488,7 +488,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "5.86%",
+    "uptime": "5.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -499,7 +499,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-06": 61,
+      "2023-06-07": 62,
+      "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
@@ -862,8 +863,7 @@
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
-      "2022-06-08": 1440,
-      "2022-06-07": 1440
+      "2022-06-08": 1440
     }
   }
 ]
