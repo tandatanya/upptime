@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-09": 70,
+      "2023-07-10": 65,
+      "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
@@ -379,8 +380,7 @@
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
-      "2022-07-11": 1440,
-      "2022-07-10": 1440
+      "2022-07-11": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "98.06%",
-    "time": 3703,
-    "timeDay": 1872,
-    "timeWeek": 3933,
-    "timeMonth": 2616,
-    "timeYear": 3703,
+    "time": 3695,
+    "timeDay": 1507,
+    "timeWeek": 3932,
+    "timeMonth": 2615,
+    "timeYear": 3694,
     "dailyMinutesDown": {
       "2023-06-18": 345,
       "2023-06-08": 79,
@@ -445,18 +445,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "down",
-    "uptime": "94.31%",
+    "uptime": "94.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "90.09%",
-    "time": 3806,
+    "uptimeYear": "89.82%",
+    "time": 3809,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3881,
+    "timeYear": 3880,
     "dailyMinutesDown": {
-      "2023-07-09": 70,
+      "2023-07-10": 65,
+      "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
@@ -522,7 +523,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "5.60%",
+    "uptime": "5.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -533,7 +534,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-09": 70,
+      "2023-07-10": 65,
+      "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
@@ -896,8 +898,7 @@
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
-      "2022-07-11": 1440,
-      "2022-07-10": 1440
+      "2022-07-11": 1440
     }
   }
 ]
