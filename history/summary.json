@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-18": 81,
+      "2023-07-19": 118,
+      "2023-07-18": 1440,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
@@ -379,8 +380,7 @@
       "2022-07-23": 1440,
       "2022-07-22": 1440,
       "2022-07-21": 1440,
-      "2022-07-20": 1440,
-      "2022-07-19": 1440
+      "2022-07-20": 1440
     }
   },
   {
@@ -392,13 +392,13 @@
     "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.31%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.06%",
-    "time": 3653,
-    "timeDay": 1305,
-    "timeWeek": 1429,
-    "timeMonth": 2307,
-    "timeYear": 3655,
+    "time": 3650,
+    "timeDay": 1752,
+    "timeWeek": 1426,
+    "timeMonth": 2321,
+    "timeYear": 3645,
     "dailyMinutesDown": {
       "2023-06-18": 345,
       "2023-06-08": 79,
@@ -445,18 +445,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "down",
-    "uptime": "93.18%",
+    "uptime": "93.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "87.62%",
-    "time": 3807,
+    "uptimeYear": "87.34%",
+    "time": 3806,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3876,
+    "timeYear": 3883,
     "dailyMinutesDown": {
-      "2023-07-18": 82,
+      "2023-07-19": 118,
+      "2023-07-18": 1440,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
@@ -531,7 +532,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "5.53%",
+    "uptime": "5.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -542,7 +543,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-18": 82,
+      "2023-07-19": 118,
+      "2023-07-18": 1440,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
@@ -905,8 +907,7 @@
       "2022-07-23": 1440,
       "2022-07-22": 1440,
       "2022-07-21": 1440,
-      "2022-07-20": 1440,
-      "2022-07-19": 1440
+      "2022-07-20": 1440
     }
   }
 ]
