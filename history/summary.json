@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-23": 45,
+      "2023-10-24": 44,
+      "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
@@ -379,8 +380,7 @@
       "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
-      "2022-10-25": 1440,
-      "2022-10-24": 1440
+      "2022-10-25": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.24%",
-    "time": 3432,
-    "timeDay": 6032,
-    "timeWeek": 5221,
-    "timeMonth": 2782,
-    "timeYear": 3172,
+    "time": 3425,
+    "timeDay": 1723,
+    "timeWeek": 5256,
+    "timeMonth": 2789,
+    "timeYear": 3163,
     "dailyMinutesDown": {
       "2023-10-12": 299,
       "2023-09-17": 35,
@@ -445,18 +445,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "down",
-    "uptime": "82.54%",
+    "uptime": "82.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.62%",
-    "time": 3849,
+    "uptimeYear": "61.35%",
+    "time": 3847,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3667,
+    "timeYear": 3659,
     "dailyMinutesDown": {
-      "2023-10-23": 45,
+      "2023-10-24": 44,
+      "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
@@ -623,7 +624,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "4.90%",
+    "uptime": "4.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -634,7 +635,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-23": 45,
+      "2023-10-24": 45,
+      "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
@@ -997,8 +999,7 @@
       "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
-      "2022-10-25": 1440,
-      "2022-10-24": 1440
+      "2022-10-25": 1440
     }
   }
 ]
