@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-28": 43,
+      "2023-10-29": 48,
+      "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -379,8 +380,7 @@
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
-      "2022-10-30": 1440,
-      "2022-10-29": 1440
+      "2022-10-30": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "97.82%",
+    "uptime": "97.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.35%",
-    "time": 3411,
-    "timeDay": 1417,
-    "timeWeek": 3678,
-    "timeMonth": 2978,
-    "timeYear": 3153,
+    "time": 3416,
+    "timeDay": 5314,
+    "timeWeek": 3558,
+    "timeMonth": 3109,
+    "timeYear": 3163,
     "dailyMinutesDown": {
       "2023-10-12": 299,
       "2023-09-17": 35,
@@ -432,8 +432,7 @@
       "2022-12-23": 129,
       "2022-11-21": 18,
       "2022-10-31": 30,
-      "2022-10-30": 794,
-      "2022-10-29": 81
+      "2022-10-30": 794
     }
   },
   {
@@ -442,18 +441,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "down",
-    "uptime": "82.06%",
+    "uptime": "81.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "60.27%",
-    "time": 3845,
+    "uptimeYear": "59.99%",
+    "time": 3846,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3612,
+    "timeYear": 3603,
     "dailyMinutesDown": {
-      "2023-10-28": 43,
+      "2023-10-29": 48,
+      "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -623,7 +623,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "4.87%",
+    "uptime": "4.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -634,7 +634,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-28": 43,
+      "2023-10-29": 48,
+      "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -997,8 +998,7 @@
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
-      "2022-10-30": 1440,
-      "2022-10-29": 1440
+      "2022-10-30": 1440
     }
   }
 ]
