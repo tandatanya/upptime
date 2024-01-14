@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-13": 49,
+      "2024-01-14": 53,
+      "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
@@ -379,8 +380,7 @@
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
-      "2023-01-15": 1440,
-      "2023-01-14": 1440
+      "2023-01-15": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "98.52%",
-    "time": 3120,
-    "timeDay": 1783,
-    "timeWeek": 1701,
-    "timeMonth": 2358,
-    "timeYear": 2670,
+    "time": 3123,
+    "timeDay": 6306,
+    "timeWeek": 2355,
+    "timeMonth": 2486,
+    "timeYear": 2671,
     "dailyMinutesDown": {
       "2023-12-31": 173,
       "2023-10-12": 299,
@@ -438,18 +438,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "down",
-    "uptime": "75.27%",
+    "uptime": "75.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.18%",
-    "time": 3845,
+    "uptimeYear": "38.91%",
+    "time": 3851,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3075,
+    "timeYear": 3061,
     "dailyMinutesDown": {
-      "2024-01-13": 49,
+      "2024-01-14": 53,
+      "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
@@ -693,7 +694,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "4.47%",
+    "uptime": "4.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -704,7 +705,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-13": 49,
+      "2024-01-14": 53,
+      "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
@@ -1067,8 +1069,7 @@
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
-      "2023-01-15": 1440,
-      "2023-01-14": 1440
+      "2023-01-15": 1440
     }
   }
 ]
