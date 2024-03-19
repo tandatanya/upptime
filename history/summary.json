@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.surat.boyolali.go.id.ico",
     "slug": "test-down",
     "status": "down",
-    "uptime": "0.55%",
+    "uptime": "0.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-18": 46,
+      "2024-03-19": 45,
+      "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -379,8 +380,7 @@
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
-      "2023-03-21": 1440,
-      "2023-03-20": 1440
+      "2023-03-21": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "down",
-    "uptime": "94.96%",
+    "uptime": "94.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "90.49%",
-    "time": 2912,
+    "uptimeYear": "90.22%",
+    "time": 2914,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2486,
+    "timeYear": 2489,
     "dailyMinutesDown": {
-      "2024-03-18": 46,
+      "2024-03-19": 45,
+      "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -450,8 +451,7 @@
       "2023-04-12": 68,
       "2023-04-08": 69,
       "2023-03-24": 139,
-      "2023-03-21": 329,
-      "2023-03-20": 879
+      "2023-03-21": 329
     }
   },
   {
@@ -460,18 +460,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "down",
-    "uptime": "70.36%",
+    "uptime": "70.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "21.62%",
-    "time": 3729,
+    "uptimeYear": "21.35%",
+    "time": 3723,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2454,
+    "timeYear": 2467,
     "dailyMinutesDown": {
-      "2024-03-18": 46,
+      "2024-03-19": 45,
+      "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -763,8 +764,7 @@
       "2023-04-18": 95,
       "2023-04-12": 68,
       "2023-03-24": 138,
-      "2023-03-21": 295,
-      "2023-03-20": 786
+      "2023-03-21": 295
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "4.18%",
+    "uptime": "4.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-18": 46,
+      "2024-03-19": 45,
+      "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -1147,8 +1148,7 @@
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
-      "2023-03-21": 1440,
-      "2023-03-20": 1440
+      "2023-03-21": 1440
     }
   }
 ]
