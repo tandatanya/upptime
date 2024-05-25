@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-24": 50,
+      "2024-05-25": 49,
+      "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -379,8 +380,7 @@
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
-      "2023-05-27": 1440,
-      "2023-05-26": 1440
+      "2023-05-27": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "89.16%",
+    "uptime": "89.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "27.83%",
-    "uptimeMonth": "7.79%",
+    "uptimeWeek": "42.10%",
+    "uptimeMonth": "11.07%",
     "uptimeYear": "73.02%",
-    "time": 2639,
-    "timeDay": 4137,
-    "timeWeek": 2838,
-    "timeMonth": 2838,
+    "time": 2632,
+    "timeDay": 1820,
+    "timeWeek": 2693,
+    "timeMonth": 2693,
     "timeYear": 2437,
     "dailyMinutesDown": {
       "2024-05-22": 124,
@@ -515,18 +515,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "down",
-    "uptime": "65.93%",
+    "uptime": "65.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "3.58%",
-    "time": 2633,
+    "uptimeYear": "3.30%",
+    "time": 2643,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1906,
+    "timeYear": 1917,
     "dailyMinutesDown": {
-      "2024-05-24": 50,
+      "2024-05-25": 49,
+      "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -898,7 +899,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-24": 50,
+      "2024-05-25": 49,
+      "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -1261,8 +1263,7 @@
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
-      "2023-05-27": 1440,
-      "2023-05-26": 1440
+      "2023-05-27": 1440
     }
   }
 ]
