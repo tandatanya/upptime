@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-25": 49,
+      "2024-05-26": 54,
+      "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
@@ -379,8 +380,7 @@
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
-      "2023-05-28": 1440,
-      "2023-05-27": 1440
+      "2023-05-28": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "up",
-    "uptime": "89.17%",
+    "uptime": "89.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "42.10%",
-    "uptimeMonth": "11.07%",
+    "uptimeWeek": "56.44%",
+    "uptimeMonth": "14.37%",
     "uptimeYear": "73.02%",
     "time": 2632,
-    "timeDay": 1820,
-    "timeWeek": 2693,
-    "timeMonth": 2693,
+    "timeDay": 1579,
+    "timeWeek": 2553,
+    "timeMonth": 2553,
     "timeYear": 2437,
     "dailyMinutesDown": {
       "2024-05-22": 124,
@@ -515,18 +515,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "down",
-    "uptime": "65.87%",
+    "uptime": "65.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "3.30%",
+    "uptimeYear": "3.03%",
     "time": 2643,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1917,
+    "timeYear": 1952,
     "dailyMinutesDown": {
-      "2024-05-25": 49,
+      "2024-05-26": 54,
+      "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
@@ -888,7 +889,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "3.91%",
+    "uptime": "3.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -899,7 +900,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-25": 49,
+      "2024-05-26": 54,
+      "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
@@ -1262,8 +1264,7 @@
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
-      "2023-05-28": 1440,
-      "2023-05-27": 1440
+      "2023-05-28": 1440
     }
   }
 ]
