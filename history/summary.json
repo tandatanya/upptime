@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.surat.boyolali.go.id.ico",
     "slug": "test-down",
     "status": "down",
-    "uptime": "0.44%",
+    "uptime": "0.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-23": 62,
+      "2024-11-24": 68,
+      "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
@@ -379,8 +380,7 @@
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
-      "2023-11-26": 1440,
-      "2023-11-25": 1440
+      "2023-11-26": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpse.boyolali.go.id.ico",
     "slug": "lpse-boyolali-eproc4",
     "status": "down",
-    "uptime": "77.78%",
+    "uptime": "77.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.20%",
-    "time": 1928,
-    "timeDay": 405,
-    "timeWeek": 369,
-    "timeMonth": 818,
-    "timeYear": 1662,
+    "uptimeYear": "28.93%",
+    "time": 1924,
+    "timeDay": 315,
+    "timeWeek": 371,
+    "timeMonth": 707,
+    "timeYear": 1656,
     "dailyMinutesDown": {
-      "2024-11-23": 62,
+      "2024-11-24": 69,
+      "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
@@ -670,7 +671,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.boyolali.go.id.ico",
     "slug": "mail-boyolali",
     "status": "down",
-    "uptime": "56.25%",
+    "uptime": "56.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -681,7 +682,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-23": 62,
+      "2024-11-24": 69,
+      "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
@@ -1044,8 +1046,7 @@
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
-      "2023-11-26": 1440,
-      "2023-11-25": 1440
+      "2023-11-26": 1440
     }
   },
   {
@@ -1054,7 +1055,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/boyolali.go.id.ico",
     "slug": "main-web",
     "status": "down",
-    "uptime": "3.34%",
+    "uptime": "3.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1065,7 +1066,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-23": 62,
+      "2024-11-24": 69,
+      "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
@@ -1428,8 +1430,7 @@
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
-      "2023-11-26": 1440,
-      "2023-11-25": 1440
+      "2023-11-26": 1440
     }
   }
 ]
